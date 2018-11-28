@@ -1,0 +1,81 @@
+/*colors and fonts*/
+body {
+background: #FFD3E8;
+color: #AA1155;
+font-family: Bahnschrift light condensed;
+font-size: 7px;
+padding: 10px;
+margin: 300px;
+box-shadow: 0px 10px 30px;
+border-radius: 30px;
+}
+}
+h1, h2, h3{
+font-family: Calisto MT;
+
+}
+h1{
+color: #AA1155;
+font-size: 60px;
+background: white;
+padding: 10px;
+margin: 20px;
+box-shadow: 0px 10px 30px;
+border-radius: 20px;
+}
+h2{
+color: #AA1155
+font-size: 15px;
+font-weight: lighter;
+width: 700px; 
+margin: 20px
+box-shadow: 0px 10px 30px;
+border-radius: 5px
+padding: 10Px;
+}
+a {
+text-decoration: none;
+color: #AA1155;
+}
+a:hover {
+color: #AA1155;
+}
+
+div{
+background: #FFFFFF;
+border: 2px #AA1155;
+font-size: 15px;
+padding: 10px;
+margin: 2px;
+box-shadow: 0px 10px 30px;
+border-radius: 15px;
+}
+
+
+}
+
+.img-circle {
+	border-radius: 50% !important;
+	margin-top: 100px;
+border: 5px #AA1155
+}
+
+.btn-white{
+background-color: 
+color: white;
+padding: 15px 20px
+border-radius: px;
+
+}
+
+.liste-inline {
+list-style: none;
+padding-left: 15px
+}
+
+.liste-inline {
+display: inline;
+padding: 15px
+
+}
+
